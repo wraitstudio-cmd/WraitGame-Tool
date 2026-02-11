@@ -15,17 +15,7 @@ WraitGame Tool, Windows sistemler için geliştirilmiş gelişmiş optimizasyon 
 
 ---
 
-## ⚡ Tek Komut ile Çalıştırma
-
-PowerShell'i **Yönetici olarak** açın ve aşağıdaki komutu yapıştırın:
-
-```powershell
-irm https://raw.githubusercontent.com/KULLANICIADI/WraitGame-Tool/main/tool.ps1 | iex
-```
-
----
-
-## 📥 Manuel İndirme
+## 📥 İndirme
 
 1. Releases bölümüne gidin
 2. En son sürümü indirin
@@ -33,11 +23,16 @@ irm https://raw.githubusercontent.com/KULLANICIADI/WraitGame-Tool/main/tool.ps1 
 
 ---
 
+## 📋 Not
+
+- Masaüstüne simge oluşturuyor. Ona tıklayın sonra ana wraitgame klasöründen WraitGame\x64\launch sonra main.hta yı seçin. Masaüstünden otomatik girebilirsiniz.
+
 ## 🔒 Güvenlik
 
 - Açık kaynaklıdır.
 - Kodlar herkes tarafından incelenebilir.
 - Zararlı içerik barındırmaz.
+- Virüs olarakl görünüyor. Ama değil.
 
 ---
 
@@ -50,4 +45,4 @@ irm https://raw.githubusercontent.com/KULLANICIADI/WraitGame-Tool/main/tool.ps1 
 
 ## 👤 Geliştirici
 
-Wraitstudio
+WraitGame
