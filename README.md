@@ -15,11 +15,9 @@ WraitGame Tool, Windows sistemler için geliştirilmiş gelişmiş optimizasyon 
 
 ---
 
-## 📥 İndirme
+## 📥 Direkt İndir
 
-1. Releases bölümüne gidin
-2. En son sürümü indirin
-3. Dosyayı çalıştırın
+[⬇️ WraitGame Tool v1.0 İndir](https://github.com/KULLANICIADI/WraitGame-Tool/releases/latest/download/WraitGameTool.exe)
 
 ---
 
