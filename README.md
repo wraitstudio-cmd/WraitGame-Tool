@@ -7,7 +7,6 @@ WraitGame Tool, Windows sistemler için geliştirilmiş gelişmiş optimizasyon 
 ## 🎯 Özellikler
 
 - Sistem optimizasyonu
-- Gereksiz servis kapatma
 - Performans artırma
 - Ağ iyileştirme
 - Temizlik işlemleri
@@ -17,7 +16,7 @@ WraitGame Tool, Windows sistemler için geliştirilmiş gelişmiş optimizasyon 
 
 ## 📥 Direkt İndir
 
-[⬇️ WraitGame Tool v1.0 İndir](https://github.com/KULLANICIADI/WraitGame-Tool/releases/latest/download/WraitGameTool.exe)
+[⬇️ WraitGame Tool v1.0 İndir]([https://github.com/KULLANICIADI/WraitGame-Tool/releases/latest/download/WraitGameTool.exe](https://drive.usercontent.google.com/download?id=1DgmtH4FEuhclQuA6qAZk7aGjrKe5O1VS&export=download&authuser=0))
 
 ---
 
